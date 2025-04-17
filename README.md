@@ -2,7 +2,7 @@
 This Excel VBA script helps generate a pre-filled Outlook email draft with specified recipients, subject, and a styled HTML body. It can be used for consistent document submissions via email, especially when using platforms like Aconex.
 
 🔹 How it works:
-All_Email_ITRs is a simple entry point that calls SendEmailWithAttachment, preloading a default To and CC list of recipients.
+AutomatedOutlookEmailDraft is a simple entry point that calls SendEmailWithAttachment, preloading a default To and CC list of recipients.
 
 SendEmailWithAttachment(mailTo, mailCC):
 
